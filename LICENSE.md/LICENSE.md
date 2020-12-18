@@ -1,6 +1,6 @@
 #Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
+This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Disclaimer.
 You are free to:
 Share — copy and redistribute the material in any medium or format
 Adapt — remix, transform, and build upon the material
